@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/quality_api.dir/link.d CMakeFiles/quality_api.dir/src/main.cpp.o -o quality_api  libquality_core.a
