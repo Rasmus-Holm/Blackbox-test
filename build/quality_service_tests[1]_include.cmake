@@ -1,0 +1,5 @@
+if(EXISTS "/home/rasmus/Code/VM-REPO/Blackbox/Blackbox-test/build/quality_service_tests[1]_tests.cmake")
+  include("/home/rasmus/Code/VM-REPO/Blackbox/Blackbox-test/build/quality_service_tests[1]_tests.cmake")
+else()
+  add_test(quality_service_tests_NOT_BUILT quality_service_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libquality_core.a CMakeFiles/quality_core.dir/src/quality_service.cpp.o
+/usr/bin/ranlib libquality_core.a

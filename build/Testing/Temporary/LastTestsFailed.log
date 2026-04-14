@@ -1,0 +1,7 @@
+1:QualityServiceTest.GradeBoundaries
+2:QualityServiceTest.DiscountBoundaries
+3:QualityServiceTest.DiscountNone
+7:QualityServiceTest.UsernameRules
+8:QualityServiceTest.UsernameSingleChar
+9:QualityServiceTest.SensorAverageUsesPreciseDivision
+10:QualityServiceTest.SensorHealthDetectsWarningAndUnstable
